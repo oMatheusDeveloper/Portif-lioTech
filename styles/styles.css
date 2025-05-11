@@ -1,3 +1,25 @@
-.containner1 {
-    background: aquamarine;
+.containnerPai {
+    background: oklch(13% 0.028 261.692);
+}
+
+.containnerFilho1 {
+   background: oklch(27.9% 0.041 260.031);
+}
+
+.containnerFilho2 {
+    background: oklch(27.9% 0.041 260.031);
+    width: 100px;
+    height: 100px;
+}
+
+.containnerFilho3 {
+    background-color: oklch(27.9% 0.041 260.031);
+     width: 100px;
+     height: 100px;
+}
+
+.containnerFilho4 {
+    background: oklch(27.9% 0.041 260.031);
+     width: 100px;
+     height: 100px;
 }
